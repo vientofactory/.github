@@ -5,7 +5,7 @@
 ## Recent Works
 
 - [하양](https://hayang.viento.me) - 디스코드 서버를 더 안전하고 효율적으로 관리하는 스마트한 관리 어시스턴트
-- [FlowAuth](https://github.com/vientofactory/FlowAuth) - OAuth2 표준을 준수하는 모던한 인증 및 권한 부여 시스템
+- [FlowAuth](https://auth.viento.me) - OAuth 2.0, OpenID Connect 표준을 준수하는 모던한 인증 및 권한 부여 시스템
 
 ## Discontinued Works
 
