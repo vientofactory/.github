@@ -11,6 +11,7 @@
 ### Featured Projects
 
 [![FlowAuth](https://github-readme-stats.vercel.app/api/pin/?username=vientofactory&repo=FlowAuth&theme=tokyonight)](https://github.com/vientofactory/FlowAuth)
+[![LawCast](https://github-readme-stats.vercel.app/api/pin/?username=vientofactory&repo=lawcast&theme=tokyonight)](https://github.com/vientofactory/lawcast)
 
 </td>
 <td width="50%">
