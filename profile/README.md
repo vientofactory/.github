@@ -1,7 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=VientoFactory"/>
-
-<img width="850px" src="https://github.com/vientofactory/.github/assets/107330816/599f75af-5c82-42d6-b89a-44af38ded629"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=S.C.H.A.L.E&desc=Independent%20Federal%20Investigation%20Club&descAlignY=65"/>
 
 <h2 align="center">Projects</h1>
 <table>
